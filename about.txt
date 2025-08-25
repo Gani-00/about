@@ -1,3 +1,4 @@
 name : Ganesh
 course : Bsc-computer 
-One thing : the githut is use for storge the project or  
+
+One thing : the githut is use for stoge the project
